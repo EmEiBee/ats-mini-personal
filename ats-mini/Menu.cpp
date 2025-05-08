@@ -20,7 +20,7 @@ int bandIdx = 0;
 // Band limits are expanded to align with the nearest tuning scale mark
 Band bands[] =
 {
-  {"VHF",  FM_BAND_TYPE, FM,   6400, 10800, 10390, 2, 0, 0},
+  {"UKW",  FM_BAND_TYPE, FM,   6400, 10800, 10390, 2, 0, 0},
   // All band. LW, MW and SW (from 150kHz to 30MHz)
   {"ALL",  SW_BAND_TYPE, AM,    150, 30000, 15000, 1, 4, 0},
   {"11M",  SW_BAND_TYPE, AM,  25600, 26100, 25850, 1, 4, 0},
@@ -32,7 +32,7 @@ Band bands[] =
   {"25M",  SW_BAND_TYPE, AM,  11000, 13000, 11850, 1, 4, 0},
   {"31M",  SW_BAND_TYPE, AM,   9000, 11000,  9650, 1, 4, 0},
   {"41M",  SW_BAND_TYPE, AM,   7000,  9000,  7300, 1, 4, 0},
-  {"49M",  SW_BAND_TYPE, AM,   5000,  7000,  6000, 1, 4, 0},
+  {"49M",  SW_BAND_TYPE, AM,   5000,  7000,  6070, 1, 4, 0},
   {"60M",  SW_BAND_TYPE, AM,   4000,  5100,  4950, 1, 4, 0},
   {"75M",  SW_BAND_TYPE, AM,   3500,  4000,  3950, 1, 4, 0},
   {"90M",  SW_BAND_TYPE, AM,   3000,  3500,  3300, 1, 4, 0},
