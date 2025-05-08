@@ -24,6 +24,7 @@ I changed the following things:
 * Changed the unusual term "VHF" in Europe to "UKW" (German term; my wife understands that too...)
 * Set the "Space" theme as the default.
 * Set the 49m band with frequency 6070kHz as the default.
+
 Since I'm an idiot when it comes to programming and I don't really know what I'm doing, there probably won't be any more changes...
 ## Documentation
 
