@@ -644,7 +644,7 @@ bool doSideBar(uint16_t cmd, int dir)
 
   switch(cmd)
   {
-    case CMD_MENU:      doMenu(dir);break;
+    case CMD_MENU:      doMenu(-dir);break;
     case CMD_MODE:      doMode(dir);break;
     case CMD_STEP:      doStep(dir);break;
     case CMD_SEEK:      doSeek(dir);break;
