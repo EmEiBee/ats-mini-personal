@@ -358,7 +358,7 @@ const ColorTheme theme[] =
   },
 };
 
-uint8_t themeIdx = 0;
+uint8_t themeIdx = 1;
 int getTotalThemes() { return(ITEM_COUNT(theme)); }
 
 #ifdef THEME_EDITOR
