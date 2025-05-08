@@ -13,7 +13,7 @@ Based on the following sources:
 * G8PTN, Dave:       https://github.com/G8PTN/ATS_MINI
 
 ... and ...
-[Releases](https://github.com/esp32-si4732/ats-mini/releases)
+https://github.com/esp32-si4732/ats-mini/releases [Releases](https://github.com/esp32-si4732/ats-mini/releases)
 
 ## 
 
