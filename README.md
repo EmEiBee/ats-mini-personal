@@ -12,9 +12,18 @@ Based on the following sources:
 * Goshante:          https://github.com/goshante/ats20_ats_ex
 * G8PTN, Dave:       https://github.com/G8PTN/ATS_MINI
 
-## Releases
+... and ...
+[Releases](https://github.com/esp32-si4732/ats-mini/releases)
 
-Check out the [Releases](https://github.com/esp32-si4732/ats-mini/releases) page.
+## 
+
+I changed the following things:
+
+* Reversed the menu scrolling direction; I found the original counterintuitive.
+* RDS ALL (EU) set as the default.
+* Changed the unusual term "VHF" in Europe to "UKW" (German term; my wife understands that too...)
+* Set the "Space" theme as the default.
+* Set the 49m band with frequency 6070kHz as the default.
 
 ## Documentation
 
