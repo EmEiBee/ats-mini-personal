@@ -15,7 +15,7 @@
 // at first time to RESET the EEPROM.
 //
 
-int bandIdx = 10;
+int bandIdx = 11;
 
 // Band limits are expanded to align with the nearest tuning scale mark
 Band bands[] =
